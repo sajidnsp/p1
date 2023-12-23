@@ -2,7 +2,8 @@
 
 void main()
 {
-printf("welcome");
+int a=10,b=20,c=a+b;
+printf("welcome %d ",c);
 
 
 }
